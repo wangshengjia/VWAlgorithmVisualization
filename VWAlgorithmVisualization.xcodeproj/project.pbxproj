@@ -22,6 +22,12 @@
 		F1CD07E1186ED719002F3EB4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1CD07C0186ED719002F3EB4 /* UIKit.framework */; };
 		F1CD07E9186ED719002F3EB4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F1CD07E7186ED719002F3EB4 /* InfoPlist.strings */; };
 		F1CD07EB186ED719002F3EB4 /* VWAlgorithmVisualizationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD07EA186ED719002F3EB4 /* VWAlgorithmVisualizationTests.m */; };
+		F1CD07F7186EE535002F3EB4 /* VWStack.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD07F6186EE535002F3EB4 /* VWStack.m */; };
+		F1CD07FA186F0598002F3EB4 /* VWQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD07F9186F0598002F3EB4 /* VWQueue.m */; };
+		F1CD07FD186F0A28002F3EB4 /* VWDeque.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD07FC186F0A28002F3EB4 /* VWDeque.m */; };
+		F1CD0804186F13C4002F3EB4 /* VWAlgorithmsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD0802186F13C4002F3EB4 /* VWAlgorithmsViewController.m */; };
+		F1CD080918703912002F3EB4 /* VWBSTreeNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD080818703912002F3EB4 /* VWBSTreeNode.m */; };
+		F1CD080C1870392D002F3EB4 /* VWBSTree.m in Sources */ = {isa = PBXBuildFile; fileRef = F1CD080B1870392D002F3EB4 /* VWBSTree.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +61,18 @@
 		F1CD07E6186ED719002F3EB4 /* VWAlgorithmVisualizationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "VWAlgorithmVisualizationTests-Info.plist"; sourceTree = "<group>"; };
 		F1CD07E8186ED719002F3EB4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F1CD07EA186ED719002F3EB4 /* VWAlgorithmVisualizationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VWAlgorithmVisualizationTests.m; sourceTree = "<group>"; };
+		F1CD07F5186EE535002F3EB4 /* VWStack.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWStack.h; path = "Data Structures/VWStack.h"; sourceTree = "<group>"; };
+		F1CD07F6186EE535002F3EB4 /* VWStack.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWStack.m; path = "Data Structures/VWStack.m"; sourceTree = "<group>"; };
+		F1CD07F8186F0598002F3EB4 /* VWQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWQueue.h; path = "Data Structures/VWQueue.h"; sourceTree = "<group>"; };
+		F1CD07F9186F0598002F3EB4 /* VWQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWQueue.m; path = "Data Structures/VWQueue.m"; sourceTree = "<group>"; };
+		F1CD07FB186F0A28002F3EB4 /* VWDeque.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWDeque.h; path = "Data Structures/VWDeque.h"; sourceTree = "<group>"; };
+		F1CD07FC186F0A28002F3EB4 /* VWDeque.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWDeque.m; path = "Data Structures/VWDeque.m"; sourceTree = "<group>"; };
+		F1CD0801186F13C4002F3EB4 /* VWAlgorithmsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWAlgorithmsViewController.h; path = ViewControllers/VWAlgorithmsViewController.h; sourceTree = "<group>"; };
+		F1CD0802186F13C4002F3EB4 /* VWAlgorithmsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWAlgorithmsViewController.m; path = ViewControllers/VWAlgorithmsViewController.m; sourceTree = "<group>"; };
+		F1CD080718703912002F3EB4 /* VWBSTreeNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWBSTreeNode.h; path = "Data Structures/VWBSTreeNode.h"; sourceTree = "<group>"; };
+		F1CD080818703912002F3EB4 /* VWBSTreeNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWBSTreeNode.m; path = "Data Structures/VWBSTreeNode.m"; sourceTree = "<group>"; };
+		F1CD080A1870392D002F3EB4 /* VWBSTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = VWBSTree.h; path = "Data Structures/VWBSTree.h"; sourceTree = "<group>"; };
+		F1CD080B1870392D002F3EB4 /* VWBSTree.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = VWBSTree.m; path = "Data Structures/VWBSTree.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +132,10 @@
 		F1CD07C2186ED719002F3EB4 /* VWAlgorithmVisualization */ = {
 			isa = PBXGroup;
 			children = (
+				F1CD0800186F1337002F3EB4 /* ViewControllers */,
+				F1CD07FF186F132D002F3EB4 /* Views */,
+				F1CD07FE186F131F002F3EB4 /* Model */,
+				F1CD07F4186ED764002F3EB4 /* Data Structures */,
 				F1CD07CB186ED719002F3EB4 /* VWAppDelegate.h */,
 				F1CD07CC186ED719002F3EB4 /* VWAppDelegate.m */,
 				F1CD07CE186ED719002F3EB4 /* Main_iPhone.storyboard */,
@@ -153,6 +175,54 @@
 				F1CD07E7186ED719002F3EB4 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F1CD07F4186ED764002F3EB4 /* Data Structures */ = {
+			isa = PBXGroup;
+			children = (
+				F1CD07F5186EE535002F3EB4 /* VWStack.h */,
+				F1CD07F6186EE535002F3EB4 /* VWStack.m */,
+				F1CD07F8186F0598002F3EB4 /* VWQueue.h */,
+				F1CD07F9186F0598002F3EB4 /* VWQueue.m */,
+				F1CD07FB186F0A28002F3EB4 /* VWDeque.h */,
+				F1CD07FC186F0A28002F3EB4 /* VWDeque.m */,
+				F1CD0806187038CC002F3EB4 /* Binary Search Tree */,
+			);
+			name = "Data Structures";
+			sourceTree = "<group>";
+		};
+		F1CD07FE186F131F002F3EB4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		F1CD07FF186F132D002F3EB4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		F1CD0800186F1337002F3EB4 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F1CD0801186F13C4002F3EB4 /* VWAlgorithmsViewController.h */,
+				F1CD0802186F13C4002F3EB4 /* VWAlgorithmsViewController.m */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		F1CD0806187038CC002F3EB4 /* Binary Search Tree */ = {
+			isa = PBXGroup;
+			children = (
+				F1CD080718703912002F3EB4 /* VWBSTreeNode.h */,
+				F1CD080818703912002F3EB4 /* VWBSTreeNode.m */,
+				F1CD080A1870392D002F3EB4 /* VWBSTree.h */,
+				F1CD080B1870392D002F3EB4 /* VWBSTree.m */,
+			);
+			name = "Binary Search Tree";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,8 +325,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1CD07D6186ED719002F3EB4 /* VWViewController.m in Sources */,
+				F1CD080918703912002F3EB4 /* VWBSTreeNode.m in Sources */,
+				F1CD07FA186F0598002F3EB4 /* VWQueue.m in Sources */,
+				F1CD0804186F13C4002F3EB4 /* VWAlgorithmsViewController.m in Sources */,
 				F1CD07C9186ED719002F3EB4 /* main.m in Sources */,
 				F1CD07CD186ED719002F3EB4 /* VWAppDelegate.m in Sources */,
+				F1CD07F7186EE535002F3EB4 /* VWStack.m in Sources */,
+				F1CD080C1870392D002F3EB4 /* VWBSTree.m in Sources */,
+				F1CD07FD186F0A28002F3EB4 /* VWDeque.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,6 +551,7 @@
 				F1CD07F0186ED719002F3EB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F1CD07F1186ED719002F3EB4 /* Build configuration list for PBXNativeTarget "VWAlgorithmVisualizationTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +560,7 @@
 				F1CD07F3186ED719002F3EB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

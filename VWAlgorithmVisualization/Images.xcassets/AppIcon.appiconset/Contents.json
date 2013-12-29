@@ -2,47 +2,47 @@
   "images" : [
     {
       "idiom" : "iphone",
-      "size" : "29x29",
+      "maxSize" : "29x29",
       "scale" : "2x"
     },
     {
       "idiom" : "iphone",
-      "size" : "40x40",
+      "maxSize" : "40x40",
       "scale" : "2x"
     },
     {
       "idiom" : "iphone",
-      "size" : "60x60",
+      "maxSize" : "60x60",
       "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "size" : "29x29",
+      "maxSize" : "29x29",
       "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "size" : "29x29",
+      "maxSize" : "29x29",
       "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "size" : "40x40",
+      "maxSize" : "40x40",
       "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "size" : "40x40",
+      "maxSize" : "40x40",
       "scale" : "2x"
     },
     {
       "idiom" : "ipad",
-      "size" : "76x76",
+      "maxSize" : "76x76",
       "scale" : "1x"
     },
     {
       "idiom" : "ipad",
-      "size" : "76x76",
+      "maxSize" : "76x76",
       "scale" : "2x"
     }
   ],

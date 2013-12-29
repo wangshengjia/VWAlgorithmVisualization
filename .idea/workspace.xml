@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80951f7c-0e4d-4b25-9973-e9ee49e7dbe9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VWAlgorithmVisualization/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VWAlgorithmVisualization/Base.lproj/Main_iPhone.storyboard" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization/Base.lproj/Main_iPhone.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VWAlgorithmVisualization.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/VWAlgorithmVisualization.xcodeproj/project.pbxproj" />
+    </list>
+    <ignored path="VWAlgorithmVisualization.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FavoritesManager">
+    <favorites_list name="VWAlgorithmVisualization" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="VWStack.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="227" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWDeque.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="46" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWAlgorithmsViewController.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="99" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWAlgorithmsViewController.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="84" selection-start="304" selection-end="304" vertical-scroll-proportion="0.18181819" vertical-offset="0" max-vertical-offset="715">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWDeque.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="2" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1196">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWQueue.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="0" selection-start="783" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1313">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWQueue.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="227" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VWStack.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="0" selection-start="793" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="1339">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.h" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.m" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.h" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.h" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.m" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.m" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.h" />
+        <option value="$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ViewControllers" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VWAlgorithmVisualization" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data Structures" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.VWAlgorithmVisualization">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="VWAlgorithmVisualization" TARGET_NAME="VWAlgorithmVisualization" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="VWAlgorithmVisualization" RUN_TARGET_NAME="VWAlgorithmVisualization" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PROJECT_NAME="VWAlgorithmVisualization" TARGET_NAME="VWAlgorithmVisualizationTests" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PROJECT_NAME="VWAlgorithmVisualization" TARGET_NAME="VWAlgorithmVisualization" CONFIG_NAME="Debug" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="VWAlgorithmVisualization" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="VWAlgorithmVisualization" PROJECT_NAME="VWAlgorithmVisualization" TARGET_NAME="VWAlgorithmVisualization" CONFIG_NAME="Debug" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" RUN_TARGET_PROJECT_NAME="VWAlgorithmVisualization" RUN_TARGET_NAME="VWAlgorithmVisualization" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.VWAlgorithmVisualization" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80951f7c-0e4d-4b25-9973-e9ee49e7dbe9" name="Default" comment="" />
+      <created>1388230207843</created>
+      <updated>1388230207843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="812" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/include/objc/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="8" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.35664335" vertical-offset="473" max-vertical-offset="1391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="227" selection-end="470" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="227" selection-end="478" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWStack.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="793" selection-end="834" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="1339">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWQueue.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="783" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1313">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="46" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/Data Structures/VWDeque.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="2" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1196">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="99" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VWAlgorithmVisualization/ViewControllers/VWAlgorithmsViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="84" selection-start="304" selection-end="304" vertical-scroll-proportion="0.18181819" vertical-offset="0" max-vertical-offset="715">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
