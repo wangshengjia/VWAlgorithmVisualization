@@ -10,4 +10,11 @@
 
 @interface VWBSTreeNode : NSObject
 
+@property (nonatomic, strong) id object;
+@property (nonatomic, strong) VWBSTreeNode *leftChild;
+@property (nonatomic, strong) VWBSTreeNode *rightChild;
+
+- (instancetype)initWithObject:(id)item;
+
+- (void)printDescription;
 @end

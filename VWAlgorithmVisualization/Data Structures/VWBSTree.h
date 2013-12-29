@@ -8,6 +8,13 @@
 
 #import <Foundation/Foundation.h>
 
+@class VWBSTreeNode;
+
+typedef NSComparisonResult (^VWComparator)(id obj1, id obj2);
+
 @interface VWBSTree : NSObject
 
+- (instancetype)initWithObject:(id)item compareSelector:(SEL)compareSelector;
+
+- (BOOL)isEmpty;
 @end

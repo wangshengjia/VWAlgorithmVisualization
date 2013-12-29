@@ -8,6 +8,22 @@
 
 #import "VWBSTreeNode.h"
 
+@interface VWBSTreeNode ()
+
+@end
+
 @implementation VWBSTreeNode
+
+- (instancetype)initWithObject:(id)item{
+	if (self = [super init]) {
+		_object = item;
+	}
+
+	return self;
+}
+
+- (void)printDescription{
+	NSLog(@"%@", [self.object description]);
+}
 
 @end
